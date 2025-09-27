@@ -5,6 +5,10 @@ This project demonstrates the basics of WebSocket communication for real-time me
 
 ---
 
+## Visit the Website
+
+## [Realtime Chat App](https://socket-realtime-chat.vercel.app)
+
 ## 🚀 Tech Stack
 
 **Frontend**

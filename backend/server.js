@@ -9,7 +9,7 @@ const io = new Server(server, {
   cors: {
     origin: [
       // "http://localhost:5173",
-      "https://realtime-chat-app.vercel.app",
+      "https://socket-realtime-chat.vercel.app",
     ],
     methods: ["GET", "POST"],
     credentials: true,
